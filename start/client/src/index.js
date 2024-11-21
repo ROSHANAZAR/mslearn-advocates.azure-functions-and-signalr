@@ -1,6 +1,6 @@
 import './style.css';
-import { BACKEND_URL } from './env';
 
+BACKEND_URL='https://api-azar.azurewebsites.net'
 const app = new Vue({
     el: '#app',
     data() {
